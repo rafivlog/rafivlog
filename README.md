@@ -32,6 +32,7 @@
 <a href="https://codeforces.com/profile/imRafi" rel="nofollow">
    <img src="https://raw.githubusercontent.com/rafivlog/cf-stats/main/output/max_rating.svg" style="max-width: 100%;">
 </a>
+
 <p dir="auto"><b>📈 Competitive Programming</b>
 <br></p>
 <p dir="auto">

@@ -28,15 +28,12 @@
 <a href="https://www.hackerearth.com/@mohammadrahatul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohammadrahatul" height="30" width="40" /></a>
 </p> 
 
-<a href="https://codeforces.com/profile/imRafi" rel ="nofollow">
-<img src= "https://raw.githubusercontent.com/imRafi/cf-stats/main/output/max_rating.svg" style="max-width:100%;">
-</a>
-<p dir="auto">
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/imRafi/cf-stats/main/output/light_card.svg#gh-dark-mode-only">
-   <img height="230px" src="https://raw.githubusercontent.com/imRafi/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt ="Statistics" style ="max-width: 100%;">
+<a href="https://codeforces.com/profile/imRafi" rel ="nofollow">
+<img src= "https://raw.githubusercontent.com/imRafi/cf-stats/main/output/max_rating.svg" style="max-width:150">
 </a>
-</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3> </br>

@@ -1,6 +1,6 @@
-[<img src='https://www.slnsoftwares.com/images/dynamic-website.png' alt='github' height='40%' width='auto'>](https://github.com/rafivlog)  
+[<img src='https://camo.githubusercontent.com/dbe66192efb7c01adeb574c402d66470f4bdddda0a483e92cc676310b3441651/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b6267717a6c31652f696d6167652f75706c6f61642f76313638353731343736302f6b363232686e69687539673331666a69753632722e676966' alt='github' height='40%' width='auto'>](https://github.com/rafivlog)  
 <h1 align="center">Hi 👋, I'm Mohammad Rahatul Islam</h1>
-<h3 align="center">A passionate MERN developer from Bangladesh</h3></br>
+<h3 align="center">A passionate MERN developer & Problem Solver from Bangladesh</h3></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafivlog&label=Profile%20views&color=0e75b6&style=flat" alt="rafivlog" /> </p>
 
@@ -27,7 +27,16 @@
 <a href="https://www.leetcode.com/rafi1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafi1234" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mohammadrahatul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohammadrahatul" height="30" width="40" /></a>
 </p> 
-https://cp-logo.vercel.app/codeforces/<imRafi>
+
+<a href="https://codeforces.com/profile/imRafi" rel ="nofollow">
+<img src= "https://raw.githubusercontent.com/imRafi/cf-stats/main/output/max_rating.svg" style="max-width:100%;">
+</a>
+<p dir="auto">
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/imRafi/cf-stats/main/output/light_card.svg#gh-dark-mode-only">
+   <img height="230px" src="https://raw.githubusercontent.com/imRafi/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt ="Statistics" style ="max-width: 100%;">
+</a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3> </br>

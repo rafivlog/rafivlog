@@ -29,15 +29,10 @@
 </p> 
 
 
-<a href="https://codeforces.com/profile/imRafi" rel="nofollow">
-   <img src="https://raw.githubusercontent.com/rafivlog/cf-stats/main/output/max_rating.svg" style="max-width: 100%;">
-</a>
 
 <p dir="auto"><b>📈 Competitive Programming</b>
 <br></p>
-<p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rafivlog/cf-stats/main/output/light_card.svg#gh-dark-mode-only"><img height="230px" src="https://raw.githubusercontent.com/rafivlog/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics" style="max-width: 100%;"></a>
-</p>
+
 
 
 

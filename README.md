@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJS , postgresql**
 
-- 👨‍💻 All of my projects are available at [https://rad-taffy-027413.netlify.app/](https://rad-taffy-027413.netlify.app/)
+- My PortFolio [https://rad-taffy-027413.netlify.app/](https://rad-taffy-027413.netlify.app/)
 
 - 💬 Ask me about **React,JavaScript,C++**
 

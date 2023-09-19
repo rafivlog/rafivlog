@@ -1,4 +1,4 @@
-[<img src='https://www.slnsoftwares.com/images/dynamic-website.png' alt='github' height='80%' width='auto'>](https://github.com/rafivlog)  
+[<img src='https://www.slnsoftwares.com/images/dynamic-website.png' alt='github' height='60%' width='auto'>](https://github.com/rafivlog)  
 <h1 align="center">Hi 👋, I'm Mohammad Rahatul Islam</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3></br>
 

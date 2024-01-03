@@ -1,6 +1,8 @@
-[<img src='https://camo.githubusercontent.com/dbe66192efb7c01adeb574c402d66470f4bdddda0a483e92cc676310b3441651/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b6267717a6c31652f696d6167652f75706c6f61642f76313638353731343736302f6b363232686e69687539673331666a69753632722e676966' alt='github' height='40%' width='auto'>](https://github.com/rafivlog)  
+
 <h1 align="center">Hi 👋, I'm Mohammad Rahatul Islam</h1>
-<h3 align="center">A passionate MERN developer & Problem Solver from Bangladesh</h3></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Mohammad Rahatul Islam!)](https://git.io/typing-svg)
+
+<h3 align="center">A passionate developer  MERN & ASP.NET MVC & Problem Solver from Bangladesh</h3></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafivlog&label=Profile%20views&color=0e75b6&style=flat" alt="rafivlog" /> </p>
 

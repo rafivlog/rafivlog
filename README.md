@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Rahatul Islam</h1>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mohammad+Rahatul+Islam!;)](https://git.io/typing-svg)
 <h3 align="center">A passionate developer  MERN & ASP.NET MVC & Problem Solver from Bangladesh</h3></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafivlog&label=Profile%20views&color=0e75b6&style=flat" alt="rafivlog" /> </p>

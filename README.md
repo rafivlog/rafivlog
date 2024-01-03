@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Rahatul Islam</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Mohammad Rahatul Islam!)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Sayed_Tahsinoor_Rahman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Sayed_Tahsinoor_Rahman!)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate developer  MERN & ASP.NET MVC & Problem Solver from Bangladesh</h3></br>
 

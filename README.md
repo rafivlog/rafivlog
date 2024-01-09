@@ -12,7 +12,7 @@
 
 - My PortFolio [https://rad-taffy-027413.netlify.app/](https://rad-taffy-027413.netlify.app/)
 
-- 💬 Ask me about **React,JavaScript,C++**
+- 💬 Ask me about **ASP.NET MVC,React,JavaScript,C++**
 
 - 📫 How to reach me **islamrahatul2019@gmail.com**
   
